@@ -15,10 +15,11 @@ regularly buying the dips is when all their fiat is already invested.
 ## Rule 3: A True HODLer Remains Steadfast In Spite of FUD
 
 Whether there's news that China is banning your coin again, or your favourite
-exchanged got hacked, a HODLer will continue to HODL. A HODLer stays the course
-regardless of who is sowing seeds of fear, uncertainty, and doubt. Disregard the
-news. Remember that the naysayers are usually those who have a lot to lose from
-your coin's success, or those who resent HODLers for going to the moon.
+exchanged got hacked, you as a HODLer will continue to HODL. A HODLer stays the
+course regardless of who is sowing seeds of fear, uncertainty, and doubt.
+**Disregard the news**. Remember that the naysayers are usually those who have a
+lot to lose from your coin's success, or those who resent HODLers for going to
+the moon.
 
 ## Rule 4: A True HODLer Keeps Their Coins Off Exchanges and Online Wallets
 
@@ -30,10 +31,10 @@ keeping. **A HODLer always controls their own private keys**.
 
 ## Rule 5: A True HODLer Buys Goods and Services With Their Coin
 
-If you decide to spend your coins, find vendors who accept your coins directly
-rather than using fiat-based bridges (such as prepaid Visa cards). By spending
-your coins, you fuel the ecosystem of fellow HODLers.  Do not become a
-spendthrift either, or you will soon find yourself without coin.
+Should you decide to spend your coins, find vendors who accept your coins
+directly rather than selling or using fiat-based bridges (such as prepaid Visa
+cards). By spending your coins, you fuel the ecosystem of fellow HODLers.  Do
+not become a spendthrift either, or you will soon find yourself without coin.
 
 ## Rule 6: A True HODLer Spreads the Good Word
 
@@ -48,12 +49,15 @@ resources, and let them make up their own mind.
 
 When you see other coins quickly rising in market cap rankings, you will not be
 distracted. They too will fall back from whence they came. Resist the temptation
-to dump your coin and go along with another. This is usually a futile exercise.
-If you do decide to purchase a new coin, weight your holdings by market cap to
-manage your risk.
+to dump your coin and pump another. This is usually a futile exercise, and is a
+quick way to make a big fortune into a small fortune. If you do, in spite of
+better sense, decide to purchase a new coin, weight your holdings by market cap
+to manage your risk.
 
 ## Rule 8: A True HODLer Will Run Their Own Full Node
 
 To ensure their coin remains healthy, and to participate in consensus, a HODLer
 runs their own full node if possible. There is truth in numbers, and a HODLer
-will always remain true to their coin.
+will always remain true to their coin. By participating in consensus a HODLer is
+in complete control of their own destiny, free from tyranny, censorship, and
+oppression.
