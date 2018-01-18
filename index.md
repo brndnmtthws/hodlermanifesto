@@ -8,7 +8,8 @@ sell.
 ## Rule 2: A True HODLer Buys the Dip
 
 If the fiat price of their coin drops, a HODLer will buy more provided they have
-the means to do so.
+the means to do so. **Under no circumstances would a HODLer panic sell because
+they see the price going down**.
 
 ## Rule 3: A True HODLer Remains Steadfast In Spite of FUD
 
