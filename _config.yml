@@ -1,0 +1,9 @@
+theme: jekyll-theme-modernist
+sass:
+  sass_dir: _sass
+  style: :compressed
+url: https://hodlermanifesto.com
+enforce_ssl: hodlermanifesto.com
+title: The HODLer Manifesto
+description: <a href="https://bitcointalk.org/index.php?topic=375643.0">What is HODL?</a>
+tagline: HODLer Manifesto
