@@ -24,6 +24,23 @@ body {
   box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
 }
 
+#background {
+  position: fixed;
+  z-index:0;
+  display:block;
+  width: 750px;
+  top: 50%;
+  transform: translateY(-50%);
+  color:yellow;
+}
+
+#bg-text {
+  color: #dcdcdc;
+  text-align: center;
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 100px;
+}
+
 header, section, footer {
   display:block;
 }
@@ -295,6 +312,14 @@ footer {
     border-radius: 0px;
     box-shadow: none;
     width:100%;
+  }
+
+  #background {
+    width: 100%
+  }
+
+  #bg-text {
+    font-size: 12vw;
   }
 
   footer {

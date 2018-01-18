@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href="https://fonts.googleapis.com/css?family=Unica+One|Lato|Lato:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Unica+One|Lato|Lato:700|Bowlby+One+SC" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -18,6 +18,9 @@
   </head>
   <body>
     <div class="wrapper">
+      <div id="background">
+        <p id="bg-text">Confidimus in HODL</p>
+      </div>
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
         <h1><a href="https://hodlermanifesto.com/">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% if site.description or site.github.project_tagline %}
@@ -29,9 +32,7 @@
         </ul>
       </header>
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
     </div>
     <footer>
