@@ -1,23 +1,33 @@
-Regra 1: A True HODLer Does Not Sell Their Coin
-HODler The first and most important rule of the HODLer Manifesto is to never sell your coin. A HODLer may spend their coin (see rule 5), but a HODLer does not sell. Only the weak sell, and they soon regret doing so.
+## Regra 1: Um verdadeiro HODLer não vende suas moedas
 
-Regra 2: A True HODLer Buys the Dip
-If the fiat price of their coin drops, a HODLer will buy more, provided they have the means to do so. Under no circumstances would a HODLer panic sell because they see the price going down. The only case where a HODLer is not regularly buying the dips is when all their fiat is already invested.
+![HODler](/assets/img/hodler.png "HODLer")
+A primeira e mais importante regra do Manifesto HODLer é: nunca venda suas moedas. Um HODLer pode gastar suas moedas (ver regra 5), mas **um HODLer não vende**. Apenas os fracos vendem, e eles logo se arrependem de tê-lo feito.
 
-Regra 3: A True HODLer Remains Steadfast In Spite of FUD
-Whether there's news that China is banning your coin again, or your favourite exchanged got hacked, you as a HODLer will continue to HODL. A HODLer stays the course regardless of who is sowing seeds of fear, uncertainty, and doubt. Disregard the news. Remember that the naysayers are usually those who have a lot to lose from your coin's success, or those who resent HODLers for going to the moon.
+## Regra 2: Um verdadeiro HODLer compra na baixa
 
-Regra 4: A True HODLer Keeps Their Coins Off Exchanges and Online Wallets
-Wallet No exchange or online wallet is immune from rogue employees, security mistakes, or simple negligence. A HODLer will keep their coins secure by using a paper or hardware wallet, instead of relying on any third parties for custody or safe keeping. A HODLer always controls their own private keys.
+Se o preço em moeda fiat de suas moedas cai, um HODLer comprará mais, contanto que tenha recursos para tal. **Em nenhuma circunstância um HODLer fará _panic sell_ quando vir o preço caindo**. O único caso no qual um HODLer não estará comprando na baixa é quando sua moeda fiat já foi toda investida.
 
-Regra 5: A True HODLer Buys Goods and Services With Their Coin
-Should you decide to spend your coins, find vendors who accept your coins directly rather than selling or using fiat-based bridges (such as prepaid Visa cards). By spending your coins, you fuel the ecosystem of fellow HODLers. Do not become a spendthrift either, or you will soon find yourself without coin.
+## Regra 3: Um verdadeiro HODLer permanece firme apesar do FUD (*Fear, Uncertainty and Doubt*)
 
-Regra 6: A True HODLer Spreads the Good Word
-Sharing is Caring Do tell your friends and family about the goodness of your coin, but do not be pushy, or pressure others into buying your coin. They may not share the same values as you. Try to educate them without being patronizing, and stick to the facts rather than appealing to emotions (like FOMO). Refer them to good resources, and let them make up their own mind.
+Se há notícias de que a China está proibindo sua moeda novamente, ou sua *exchange* favorita foi *hackeada*, você como um HODLer continuará com o HODL. Um HODLer permanece no curso independente de quem esteja semeando as sementes do medo, incerteza e dúvida. **Desconsidere as notícias**. Lembre-se que os que negam são geralmente aqueles que tem muito a perder com o sucesso das suas moedas, ou aqueles que se resentem dos HODLers por seus grande lucros.
 
-Regra 7: A True HODLer Does Not Get FOMO When Another Coin Rises
-When you see other coins quickly rising in market cap rankings, you will not be distracted. They too will fall back from whence they came. Resist the temptation to dump your coin and pump another. This is usually a futile exercise, and is a quick way to make a big fortune into a small fortune. If you do, in spite of better sense, decide to purchase a new coin, weight your holdings by market cap to manage your risk.
+## Regra 4: Um verdadeiro HODLer mantém suas moedas fora das *exchanges* e *wallets* virtuais
 
-Regra 8: A True HODLer Will Run Their Own Full Node
-To ensure their coin remains healthy, and to participate in consensus, a HODLer runs their own full node if possible. There is truth in numbers, and a HODLer will always remain true to their coin. By participating in consensus a HODLer is in complete control of their own destiny, free from tyranny, censorship, and oppression.
+![Wallet](/assets/img/wallet.png "Wallet")
+Nenhuma *exchange* ou *wallet* virtual está imune de empregados maliciosos, falhas de segurança ou simplesmente negligência. um HODLer manterá suas moedas seguras usando uma *paper wallet* ou uma *wallet* física (*hardware*), ao invés de contar com qualquer serviço de terceiros para guarda-las e mantê-las seguras. **Um HODLer sempre controla suas próprias chaves privadas**.
+
+## Regra 5: Um verdadeiro HODLer compra bens e serviços com suas moedas
+Caso você decida gastar suas moedas, encontre vendedores que as aceitam diretamente ao invés de vendê-las ou usando pontes baseadas em dinheiro fiat (como os cartões Visa pré-pagos). Ao gastar suas moedas você alimenta o ecossistema dos colegas HODLers. Não se torne no entanto um gastador ou logo acabará sem qualquer moeda.
+
+## Regra 6: Um verdadeiro HODLer espalha a boa palavra
+
+![Sharing is Caring](/assets/img/sharing-is-caring.png "Sharing is Caring")
+Conte a seus amigos e familiares sobre as benesses de suas moedas, mas não seja invasivo ou pressione-os a comprar as mesmas que você tem. Eles podem não compartilhar dos mesmos valores que você. Tente educa-los sem no entanto ser condescendente e se atenha aos fatos ao invés de apelar às emoção (usando FOMO). Indique bons recursos e deixe-os decidir por si.
+
+## Regra 7: Um verdadeiro HODLer não sofre de FOMO quando outra moeda sobe
+
+Quando você vê outras moedas rapidamente subindo no *ranking* de capitalização de mercado, você não será distraído pelo fato. Elas logo voltarão para o lugar de onde vieram. Resista à tentação de se livrar de uma moeda e inflar outra. Este é geralmente um exercício fútil e é uma maneira rápida de transformar um grande montante num pequeno montante de dinheiro. Se apesar dos conselhos você decidir trocar de moeda, avalie suas posições por capitalização de mercado, para gerenciar seu risco.
+
+## Regra 8: Um verdadeiro HODLer rodará seu próprio *Full Node*
+
+Para garantir que suas moedas permanençam saudáveis e para participar do consenso, um HODLer rodará - se possível - seu próprio *full node*. Há verdade em números e um HODLer permanecerá fiel às suas moedas. Ao participar do consenso um HODLer está com total controle sobre seu destino, livre de tirania, censura e opressão.
