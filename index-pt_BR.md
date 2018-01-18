@@ -1,7 +1,7 @@
 ## Regra 1: Um verdadeiro HODLer não vende suas moedas
 
 ![HODler](/assets/img/hodler.png "HODLer")
-A primeira e mais importante regra do Manifesto HODLer é: nunca venda suas moedas. Um HODLer pode gastar suas moedas (ver regra 5), mas **um HODLer não vende**. Apenas os fracos vendem, e eles logo se arrependem de tê-lo feito.
+A primeira e mais importante regra do Manifesto HODLer é: nunca venda suas moedas. Um HODLer pode gastar suas moedas (ver regra 5), **mas um HODLer não as vende**. Apenas os fracos vendem e eles logo se arrependem de tê-lo feito.
 
 ## Regra 2: Um verdadeiro HODLer compra na baixa
 
@@ -9,7 +9,7 @@ Se o preço em moeda fiat de suas moedas cai, um HODLer comprará mais, contanto
 
 ## Regra 3: Um verdadeiro HODLer permanece firme apesar do FUD (*Fear, Uncertainty and Doubt*)
 
-Se há notícias de que a China está proibindo sua moeda novamente, ou sua *exchange* favorita foi *hackeada*, você como um HODLer continuará com o HODL. Um HODLer permanece no curso independente de quem esteja semeando as sementes do medo, incerteza e dúvida. **Desconsidere as notícias**. Lembre-se que os que negam são geralmente aqueles que tem muito a perder com o sucesso das suas moedas, ou aqueles que se resentem dos HODLers por seus grande lucros.
+Se há notícias de que a China está proibindo sua moeda novamente ou sua *exchange* favorita foi *hackeada*, você como um HODLer continuará com o HODL. Um HODLer permanece no curso independente de quem esteja semeando as sementes do "medo, incerteza e dúvida". **Desconsidere as notícias**. Lembre-se que os que negam são geralmente aqueles que tem muito a perder com o sucesso das suas moedas, ou aqueles que se resentem dos HODLers por seus grande lucros.
 
 ## Regra 4: Um verdadeiro HODLer mantém suas moedas fora das *exchanges* e *wallets* virtuais
 
@@ -17,7 +17,7 @@ Se há notícias de que a China está proibindo sua moeda novamente, ou sua *exc
 Nenhuma *exchange* ou *wallet* virtual está imune de empregados maliciosos, falhas de segurança ou simplesmente negligência. um HODLer manterá suas moedas seguras usando uma *paper wallet* ou uma *wallet* física (*hardware*), ao invés de contar com qualquer serviço de terceiros para guarda-las e mantê-las seguras. **Um HODLer sempre controla suas próprias chaves privadas**.
 
 ## Regra 5: Um verdadeiro HODLer compra bens e serviços com suas moedas
-Caso você decida gastar suas moedas, encontre vendedores que as aceitam diretamente ao invés de vendê-las ou usando pontes baseadas em dinheiro fiat (como os cartões Visa pré-pagos). Ao gastar suas moedas você alimenta o ecossistema dos colegas HODLers. Não se torne no entanto um gastador ou logo acabará sem qualquer moeda.
+Caso você decida gastar suas moedas, encontre vendedores que as aceitam diretamente. Nunca as venda ou gaste-as usando pontes baseadas em dinheiro fiat (como os cartões Visa pré-pagos). Ao gastar suas moedas você alimenta o ecossistema dos colegas HODLers. Não se torne no entanto um gastador ou logo acabará sem qualquer moeda.
 
 ## Regra 6: Um verdadeiro HODLer espalha a boa palavra
 
