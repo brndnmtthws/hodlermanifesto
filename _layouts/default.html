@@ -17,6 +17,13 @@
     <![endif]-->
   </head>
   <body>
+    <div class="languages">
+      <button onclick="buttonFunc()" class="dropbtn">Language</button>
+      <div id="langDropdown" class="dropdown-content">
+        <a href="/">EN US</a>
+        <a href="/index-pt_Br.html">PT BR</a>
+      </div>
+    </div>
     <div class="wrapper">
       <div id="background">
         <p id="bg-text">Confidimus in HODL</p>
@@ -54,6 +61,24 @@ $(function() {
     }
   });
 });
+function buttonFunc() {
+    document.getElementById("langDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
 </script>
 
   </body>

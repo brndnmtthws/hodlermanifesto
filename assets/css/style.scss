@@ -8,6 +8,57 @@ html {
   background: linear-gradient(#003459, #007ea7) fixed;
 }
 
+.dropbtn {
+    background-color: #5198DF;
+    color: white;
+    padding: 4px;
+    font-size: 13px;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #f8f8f8;
+}
+
+.dropdown-content {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.languages {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 80px;
+  z-index: 2;
+  cursor: pointer;
+  border-radius: 0px 0px 0px 4px;
+  box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
+}
+
+.languages a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+  padding: 3px;
+  font-size: 12px;
+}
+
+.languages a:hover {
+  background: #ddd;
+  color: black;
+}
+
 body {
   padding:50px 0;
   margin:0;
@@ -65,7 +116,7 @@ header {
   background: #007ea7;
   background: linear-gradient(#010101, #007ea7 150px);
   position:relative;
-  padding:15px 20px;
+  padding:20px 20px;
   border-bottom:1px solid #B2D2E1;
 
   h1, h2 {
@@ -75,7 +126,7 @@ header {
     font-size:48px;
     line-height:1.2;
     color: #007ea7;
-    //text-shadow:rgba(#fff, 0.9) 0 1px 0;
+    text-shadow:rgba(#090909, 0.7) 0 1px 0;
   }
 
   &.without-description h1 {
@@ -91,7 +142,7 @@ header {
 
     &.view {
       display:none;
-      text-shadow: none;//rgba(#ccc, 0.8) 0 1px 0;
+      text-shadow: none;
       -webkit-font-smoothing:antialiased;
 
       a {
@@ -111,7 +162,7 @@ header {
     position:absolute;
     z-index:1;
     right:20px;
-    top:20px;
+    top: 30px;
     height:38px;
     padding:1px 0;
     background:#5198DF;
@@ -202,6 +253,7 @@ h1, h2, h3 {
 
 h1, h2 {
   font-size:28px;
+  text-shadow:rgba(#090909, 0.7) 0 1px 0;
 }
 
 h3, h4, h5, h6 {
