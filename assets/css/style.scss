@@ -33,7 +33,7 @@ html {
 .languages {
   overflow: hidden;
   background-color: #333;
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
   width: 80px;
@@ -60,7 +60,7 @@ html {
 }
 
 body {
-  padding:50px 0;
+  padding:40px 0;
   margin:0;
   font-size: 14px/1.5;
   font-family: 'Lato', sans-serif;
