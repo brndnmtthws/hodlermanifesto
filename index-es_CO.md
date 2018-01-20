@@ -28,7 +28,7 @@ Cuéntale a tus amigos y familiares sobre las ventajas de tu moneda, pero no pre
 
 ## Regla 7: Un Verdadero HODLer no cae en el FOMO (Miedo a perderse algo) Cuando Otra Moneda Sube De Precio
 
-Cuando veas otras monedas subiendo de precio rápidamente o subiendo en el ranking de capitalización de mercado, no te distraerás. Ellas caerán de nuevo desde donde empezaron. Resiste la tentación de vender tu moneda para subir en el tren de otra. Esto usualmente es un ejercicio inútil, y es la manera más rápida de convertir una gran fortuna en una pequeña. Si lo haces y te decides a comprar una nueva moneda, pondere sus recursos por capitalización de mercado para manejar mejor el riesgo.
+Cuando veas otras monedas subiendo de precio rápidamente o subiendo en el ranking de capitalización de mercado, no te distraerás. Resiste la tentación de vender tu moneda para subirte en el tren de otra. Esto usualmente es un ejercicio inútil, y es la manera más rápida de convertir una gran fortuna en una pequeña. Si lo haces y te decides a comprar una nueva moneda, pondere sus recursos por capitalización de mercado para manejar mejor el riesgo.
 
 ## Regla 8: Un Verdadero HODLer Corre Su Propio Nodo Completo
 
