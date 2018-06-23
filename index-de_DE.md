@@ -32,4 +32,4 @@ Wenn Du andere Coins in Marktwert Rankings schnell steigen siehst, wirst Du Dich
 
 ## Regel 8: Ein Wahrer HODLer Wird Seine Eigene Full Node Betreiben
 
-Um sicherzustellen dass sein Coin gesund bleibt und um am Konsens teilzunehmen, betreibt ein HODLer wenn möglich eine eigene Full Node. Es steckt Wahrheit in Zahlen und ein HODLer wird seinem Coin immer treu bleiben. Durch Teilnahme am Konsens ist ein HODLer in vollständiger Kontrolle seines eigenen Schicksals, frei von Tyrannei, Zensur and Unterdrückung.
+Um sicherzustellen dass sein Coin gesund bleibt und um am Konsens teilzunehmen, betreibt ein HODLer wenn möglich eine eigene Full Node. Es steckt Wahrheit in Zahlen und ein HODLer wird seinem Coin immer treu bleiben. Durch Teilnahme am Konsens ist ein HODLer in vollständiger Kontrolle seines eigenen Schicksals, frei von Tyrannei, Zensur und Unterdrückung.
