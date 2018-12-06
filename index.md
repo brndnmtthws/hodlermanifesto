@@ -33,7 +33,7 @@ keeping. **A HODLer always controls their own private keys**.
 
 Should you decide to spend your coins, find vendors who accept your coins
 directly rather than selling or using fiat-based bridges (such as prepaid Visa
-cards). By spending your coins, you fuel the ecosystem of fellow HODLers.  Do
+cards). By spending your coins, you fuel the ecosystem of fellow HODLers. Do
 not become a spendthrift either, or you will soon find yourself without coin.
 
 ## Rule 6: A True HODLer Spreads the Good Word
